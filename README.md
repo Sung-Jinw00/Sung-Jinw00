@@ -1,8 +1,8 @@
 ## Hello there 👋
-
 I'm a **software engineering student at 42 School**, focused on building low-level and full-stack systems with a strong emphasis on **C/C++, backend architecture, and web development**.
 
-🎓 I'm currently **looking for an internship or alternance** (end-of-studies internship) starting soon.
+🎓 I'm currently on a **2-year alternance (apprenticeship) at Tressol-Chabrier**, preparing an **RNCP6 - Software Solutions Designer and Developer**.
+📚 I plan to continue for one more year to obtain an **RNCP7 in AI and Algorithmics**.
 
 I enjoy designing and implementing complete systems from scratch — including shells, web servers, and real-time applications — while understanding how everything works under the hood.
 
