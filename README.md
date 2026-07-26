@@ -9,7 +9,10 @@ I enjoy designing and implementing complete systems from scratch — including s
 ---
 
 ### 🔭 Current Focus
-- Systems programming in C and C++ (42 curriculum projects)
+- Tech & Data engineering at Tressol-Chabrier: building **Atlas**, an internal reporting web app (PHP / JS / SQL Server) for a car dealership network — dashboards for sales, quality, and call center KPIs across multiple brands and sites
+- Auditing and fixing data-mapping issues across SQL Server databases (SIRET matching, referential mismatches, ETL gaps)
+- Next up: building AI agents to automate customer support responses to common questions
+- 42 curriculum projects
 - Backend architecture (APIs, services, real-time systems)
 - Web development (JavaScript / TypeScript)
 - Networking, processes, and OS-level concepts
