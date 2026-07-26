@@ -77,7 +77,8 @@ I enjoy designing and implementing complete systems from scratch — including s
 ### 📫 Contact
 - GitHub: [@Louis-Cagnion](https://github.com/Louis-Cagnion)  
 - Email: [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)  
-- LinkedIn: [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)  
+- LinkedIn: [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)
+- 42 Profile: [locagnio](https://profile.intra.42.fr/users/locagnio) 
 
 ---
 
