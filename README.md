@@ -2,8 +2,6 @@
  
 I'm a **software engineering student at 42 School**, focused on building low-level and full-stack systems with a strong emphasis on **C/C++, backend architecture, and web development**.
  
-🃏 My long-term goal: **Developer \*** — like the wildcard that selects everything. I want to be able to work across the whole stack, from low-level systems to backend, frontend, and applied AI, rather than staying in one lane.
- 
 🎓 I'm currently on a **2-year alternance (apprenticeship) at Tressol-Chabrier**, preparing an **RNCP6 - Software Solutions Designer and Developer**.
  
 📚 I plan to continue for one more year to obtain an **RNCP7 in AI and Algorithmics**.
@@ -35,6 +33,7 @@ I enjoy designing and implementing complete systems from scratch — including s
 - Building real-time and networked applications (games, servers, shells)
 - Developing full-stack projects with clean architecture
 - Gradually exploring AI systems and applied LLM use cases
+- Long-term: aiming for a **"Developer \*"** profile — comfortable across the whole stack rather than confined to one layer
 ---
  
 ### 👯 Open to Collaborate On
